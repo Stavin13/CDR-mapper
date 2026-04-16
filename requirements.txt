@@ -1,0 +1,7 @@
+customtkinter
+pdfplumber
+requests
+tkintermapview
+pillow
+pandas
+python-dotenv
